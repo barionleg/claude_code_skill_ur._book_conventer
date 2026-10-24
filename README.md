@@ -1,4 +1,4 @@
-[Welcome to the ai wiki!](https://github.com/barionleg/ai/wiki/Home/)
+[Welcome to the  wiki!](https://github.com/barionleg/claude_code_skill_ur._book_conventer/)
 
 # Book-to-Skill Converter
 
